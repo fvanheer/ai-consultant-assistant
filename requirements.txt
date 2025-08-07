@@ -1,0 +1,5 @@
+fastapi[standard]>=0.115.12
+google-adk>=1.9.0
+python-dotenv>=1.1.0
+requests>=2.32.3
+chainlit>=2.6.6
